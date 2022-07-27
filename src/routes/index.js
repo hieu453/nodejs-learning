@@ -7,6 +7,6 @@ function route(app) {
     app.use('/', siteRouter);
 }
 
-const a = [1, 2];
+const a = "hello";
 
 module.exports = route;
